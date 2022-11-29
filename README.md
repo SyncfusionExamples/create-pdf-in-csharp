@@ -7,7 +7,7 @@ The [Syncfusion .NET PDF library](https://www.syncfusion.com/document-processing
  [PDF file from Word](https://github.com/SyncfusionExamples/create-pdf-in-csharp/blob/main/Pdf_from_word) | Create a PDF file from a Word template with the help of [Syncfusion .NET Word (DocIO) Library](https://www.syncfusion.com/document-processing/word-framework/net) 
 [ PDF file from Excel](https://github.com/SyncfusionExamples/create-pdf-in-csharp/blob/main/pdf_from_excel) |Create a PDF file from an Excel file with the help of [Excel library](https://www.syncfusion.com/document-processing/excel-framework/net) 
 [PDF file from Powerpoint](https://github.com/SyncfusionExamples/create-pdf-in-csharp/blob/main/pdf_from_powerPoint) | Create a PDF from a PowerPoint with the help of [PowerPoint Libraries](https://www.syncfusion.com/document-processing/powerpoint-framework/net)
-[PDF from webpages](https://github.com/SyncfusionExamples/create-pdf-in-csharp/blob/main/pdf_from_web) |Create a PDF from webpages with the help of [ HTML-to-PDF converter](https://www.syncfusion.com/document-processing/pdf-framework/net/html-to-pdf) 
+[PDF file from webpages](https://github.com/SyncfusionExamples/create-pdf-in-csharp/blob/main/pdf_from_web) |Create a PDF from webpages with the help of [ HTML-to-PDF converter](https://www.syncfusion.com/document-processing/pdf-framework/net/html-to-pdf) 
 [PDF file from images](https://github.com/SyncfusionExamples/create-pdf-in-csharp/blob/main/pdf_from_images) | Create a PDF file from images 
 
 # How to run the examples
