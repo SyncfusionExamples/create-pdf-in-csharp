@@ -2,7 +2,7 @@
 
 The [Syncfusion .NET PDF library](https://www.syncfusion.com/document-processing/pdf-framework/net) allows users to create PDF files programmatically using C#. Also users can create PDF documents from scratch or files in other formats such as Word, Excel, PowerPoint (PPTX), web pages, and images.
  Sample name | Description
-|------|------|
+------|------
 [PDF file from scratch](https://github.com/SyncfusionExamples/create-pdf-in-csharp/blob/main/pdf_from_scratch) | Create a PDF file from scratch with the help of [Syncfusion .NET PDF Library](https://www.syncfusion.com/document-processing/pdf-framework/net) 
  [PDF file from Word](https://github.com/SyncfusionExamples/create-pdf-in-csharp/blob/main/Pdf_from_word) | Create a PDF file from a Word template with the help of [Syncfusion .NET Word (DocIO) Library](https://www.syncfusion.com/document-processing/word-framework/net) 
 [ PDF file from Excel](https://github.com/SyncfusionExamples/create-pdf-in-csharp/blob/main/pdf_from_excel) |Create a PDF file from an Excel file with the help of [Excel library](https://www.syncfusion.com/document-processing/excel-framework/net) 
