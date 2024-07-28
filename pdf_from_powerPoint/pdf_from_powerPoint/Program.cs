@@ -1,6 +1,6 @@
 ﻿using Syncfusion.Pdf;
 using Syncfusion.Presentation;
-using Syncfusion.PresentationToPdfConverter;
+using Syncfusion.PresentationRenderer;
 using System.IO;
 
 namespace pdf_from_powerPoint
